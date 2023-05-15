@@ -13,3 +13,5 @@ NEVER TRUST USER DATA BECAUSE THINGS LIKE THIS MODULE MAY HAPPEN :D
 Also Play Integrity API isn't perfect, I can pass MEETS_STRONG_INTEGRITY with my unlocked bootloader device.
 
 Sooo, don't check nothing. Lets users do whatever they want with their devices.
+
+Like safetynet-fix by kdrag0n, this should be implemented in custom ROMs, so Xposed won't be required and can't be detected by apps like Momo.
